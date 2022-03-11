@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olle Thestrup.
-- 👀 I’m interested in building software that "doesn't make you think"
-- 🌱 I’m currently learning React.
+- 👀 I’m interested in building software that "doesn't make you think".
+- 🌱 I’m currently working with Ruby on Rails!
 - 📫 You can reach me at: ollethestrup@gmail.com
 
 <!---
